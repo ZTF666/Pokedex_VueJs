@@ -1,4 +1,7 @@
-# pokedexwithvue
+# A very Basic Pokédex made in VueJs
+
+<img src="https://imgur.com/7MuEodV" style="width:100%;max-width:100%">
+
 
 ## Project setup
 ```
