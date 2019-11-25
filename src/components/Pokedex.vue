@@ -65,7 +65,7 @@ export default {
     padding: 10px;
     width: calc(100% - 20px);
     min-height: calc(100vh - 20px);
-    background: radial-gradient(#360033, #0b8793);
+    background: radial-gradient(#c31432, #240b36);
     font-family: 'Acme', arial;
     font-size: 1rem;
     font-weight: normal;

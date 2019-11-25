@@ -167,8 +167,8 @@ export default {
             word-wrap: none;
             word-break: keep-all;
           }
-          .type { background-color: #0A2E50; }
-          .ability { background-color: #C73015; }
+          .type { background-color: #a8c0ff; }
+          .ability { background-color: #00B4DB; }
         }
       }
       .close {
