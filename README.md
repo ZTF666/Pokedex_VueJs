@@ -1,10 +1,10 @@
 # A very Basic Pokédex made in VueJs
 
 ## List of Pokémon
-<img src="https://i.imgur.com/7MuEodV.png" style="width:70%;max-width:70%">
+![Screenshot](ScrSh/1.png)
 
 ## Data related to a selected Pokémon
-<img src="https://i.imgur.com/HadxcUj.png" style="width:70%;max-width:70%">
+![Screenshot](ScrSh/2.png)
 
 
 
